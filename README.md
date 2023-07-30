@@ -1,3 +1,8 @@
+#Chibi Chain, the Link Tree clone 
+The purpose of this project was initally to get a better understanding of sveltekit and firebase.
+Over the course of the developing this webapp, I have increasinlgy put in more and more of my flavor into making a truly unique and best of all free linktree alternative at https://chibichain.com
+This website is hosted on netlify since firebase hosting was not able to work for me, however if you want to host this on firebase feel free to try. 
+Below are the instructions for setting up the repo
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
