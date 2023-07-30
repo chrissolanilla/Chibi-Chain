@@ -1,4 +1,4 @@
-#Chibi Chain, the Link Tree clone 
+## Chibi Chain, the Link Tree clone 
 
 The purpose of this project was initally to get a better understanding of sveltekit and firebase.
 Over the course of the developing this webapp, I have increasinlgy put in more and more of my flavor into making a truly unique and best of all free linktree alternative at https://chibichain.com
